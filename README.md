@@ -10,6 +10,7 @@ Daily grind
 ## Array
 |  |
 | ------- |
+| [1470-shuffle-the-array](https://github.com/harshit-ssr/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/harshit-ssr/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
